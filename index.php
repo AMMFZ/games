@@ -7,7 +7,7 @@
     <!-- for mobile Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <title>games-shop</title>
+    <title>games</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- FontAwesomeIcons -->
